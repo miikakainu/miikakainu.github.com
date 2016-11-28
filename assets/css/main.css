@@ -263,7 +263,7 @@
 	}
 
 	.row > * {
-		padding: 40px 0 0 40px;
+		padding: 5px 0 0 5px;
 	}
 
 	.row {
@@ -271,7 +271,7 @@
 	}
 
 	.row.uniform > * {
-		padding: 40px 0 0 40px;
+		padding: 5px 0 0 5px;
 	}
 
 	.row.uniform {
@@ -327,7 +327,7 @@
 	}
 
 	.row.\32 5\25 > * {
-		padding: 10px 0 0 10px;
+		padding: 5px 0 0 5px;
 	}
 
 	.row.\32 5\25 {
@@ -335,7 +335,7 @@
 	}
 
 	.row.uniform.\32 5\25 > * {
-		padding: 10px 0 0 10px;
+		padding: 5px 0 0 5px;
 	}
 
 	.row.uniform.\32 5\25 {
@@ -476,7 +476,7 @@
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 		.row > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row {
@@ -484,7 +484,7 @@
 		}
 
 		.row.uniform > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform {
@@ -540,7 +540,7 @@
 		}
 
 		.row.\32 5\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 5\25 {
@@ -548,7 +548,7 @@
 		}
 
 		.row.uniform.\32 5\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\32 5\25 {
@@ -691,7 +691,7 @@
 	@media screen and (min-width: 961px) and (max-width: 1620px) {
 
 		.row > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row {
@@ -699,7 +699,7 @@
 		}
 
 		.row.uniform > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform {
@@ -755,7 +755,7 @@
 		}
 
 		.row.\32 5\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 5\25 {
@@ -763,7 +763,7 @@
 		}
 
 		.row.uniform.\32 5\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\32 5\25 {
@@ -922,7 +922,7 @@
 		}
 
 		.row.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 00\25 {
@@ -930,7 +930,7 @@
 		}
 
 		.row.uniform.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\32 00\25 {
@@ -954,7 +954,7 @@
 		}
 
 		.row.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\35 0\25 {
@@ -962,7 +962,7 @@
 		}
 
 		.row.uniform.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\35 0\25 {
@@ -1137,7 +1137,7 @@
 		}
 
 		.row.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 00\25 {
@@ -1145,7 +1145,7 @@
 		}
 
 		.row.uniform.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\32 00\25 {
@@ -1169,7 +1169,7 @@
 		}
 
 		.row.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\35 0\25 {
@@ -1177,7 +1177,7 @@
 		}
 
 		.row.uniform.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\35 0\25 {
@@ -1352,7 +1352,7 @@
 		}
 
 		.row.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\32 00\25 {
@@ -1360,7 +1360,7 @@
 		}
 
 		.row.uniform.\32 00\25 > * {
-			padding: 40px 0 0 40px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\32 00\25 {
@@ -1384,7 +1384,7 @@
 		}
 
 		.row.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.\35 0\25 {
@@ -1392,7 +1392,7 @@
 		}
 
 		.row.uniform.\35 0\25 > * {
-			padding: 10px 0 0 10px;
+			padding: 5px 0 0 5px;
 		}
 
 		.row.uniform.\35 0\25 {
@@ -1936,7 +1936,7 @@
 
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
-		margin-bottom: 40px;
+		margin-bottom: 5px;
 	}
 
 		.item header {
